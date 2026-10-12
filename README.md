@@ -1,113 +1,110 @@
 <div align="center">
 
-# 🔵 DATA → 🟣 INTELLIGENCE → 🟦 PRODUCT
+# 🟦 DATA → 🟪 INTELLIGENCE → 🟦 PRODUCT
 
-### Data Science · Machine Learning · Generative AI · Development
+### Data Science • Machine Learning • Generative AI • Development
 
-**Turning data into insights, insights into models, and models into products.**
+*Turning data, ideas and models into useful products.*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theerdha-s-joy-7b143340b/)
-[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-5B2CFF?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/theerdha.s.joy/viz/TheerdhaSJoyPortfolio/Leadership)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theerdhasjoy?tab=repositories)
+<a href="https://www.linkedin.com/in/theerdha-s-joy-7b143340b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://public.tableau.com/app/profile/theerdha.s.joy/viz/TheerdhaSJoyPortfolio/Leadership">
+<img src="https://img.shields.io/badge/Tableau-5B2CFF?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/theerdhasjoy?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🌐 CURRENTLY
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+## 🚀 CURRENTLY
 
-### 🧠 Learning
+**Machine Learning** &nbsp;•&nbsp;
+**Generative AI** &nbsp;•&nbsp;
+**Data Analytics** &nbsp;•&nbsp;
+**MLOps** &nbsp;•&nbsp;
+**Application Development**
 
-- Machine Learning
-- Generative AI
-- LLMs & Transformers
-- MLOps
-
-</td>
-<td width="50%">
-
-### 🚀 Building
-
-- Data-driven applications
-- ML projects
-- Analytics dashboards
-- Web & mobile applications
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## ⚡ FEATURED PROJECTS
+## ✦ SELECTED PROJECTS
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ♻️ TrackWise
 
 **Intelligent Waste Collection Scheduler**
 
-Pickup scheduling, rewards, history and
-status tracking.
+Pickup scheduling, status tracking, history and reward system.
 
 `Flutter` `Dart` `Firebase`
 
-[View Project →](https://github.com/theerdhasjoy/TrackWise)
+<br>
+
+<a href="https://github.com/theerdhasjoy/TrackWise">View Repository →</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 NovaNest
 
 **Application & Web Development**
 
-A practical application project focused
-on building a clean digital experience.
+A practical digital application focused on building a clean user experience.
 
-`Development` `UI`
+`Development` `UI` `Web`
 
-[View Project →](https://github.com/theerdhasjoy/novanest)
+<br>
+
+<a href="https://github.com/theerdhasjoy/novanest">View Repository →</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💳 Feezy
 
 **Flutter Application**
 
-Exploring mobile application development,
-UI and application workflows.
+A mobile application project exploring UI, workflows and Flutter development.
 
 `Dart` `Flutter`
 
-[View Project →](https://github.com/theerdhasjoy/feezy)
+<br>
+
+<a href="https://github.com/theerdhasjoy/feezy">View Repository →</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🗑️ Garbage Scheduler
 
 **Data & Scheduling**
 
-A data-oriented project exploring
-waste-management and scheduling.
+A project exploring waste-management workflows and intelligent scheduling.
 
 `Python` `Jupyter`
 
-[View Project →](https://github.com/theerdhasjoy/garbage_scheduler_app)
+<br>
+
+<a href="https://github.com/theerdhasjoy/garbage_scheduler_app">View Repository →</a>
 
 </td>
 </tr>
@@ -115,63 +112,58 @@ waste-management and scheduling.
 
 ---
 
-## 🛠️ TECHNOLOGY STACK
+<div align="center">
+
+## 🧰 TOOLBOX
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,c,dart,mysql" />
 
-### 📊 Data & Machine Learning
+### 📊 Data • ML • Analytics
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=flat-square)
-![Statistics](https://img.shields.io/badge/Statistics-16A085?style=flat-square)
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
 
-### 📈 Analytics & Visualization
+<br><br>
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+`SQL` &nbsp; `NLP` &nbsp; `Statistics` &nbsp; `Excel` &nbsp; `Tableau` &nbsp; `Power BI`
 
 ### 📱 Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,firebase,streamlit" />
 
----
+### 🔮 Exploring
 
-## 🔄 HOW I BUILD
-
-<div align="center">
-
-### 💡 IDEA
-### ↓
-### 📊 DATA
-### ↓
-### 🔎 INSIGHT
-### ↓
-### 🤖 MODEL
-### ↓
-### 🚀 PRODUCT
-### ↓
-### 🔁 ITERATE
+`Generative AI` &nbsp; `LLMs` &nbsp; `Transformers` &nbsp; `MLOps`
 
 </div>
 
 ---
 
-## 🎯 CURRENT FOCUS
+## 🔄 THE WAY I BUILD
 
-```text
-Machine Learning      ███████████████░░░
-Generative AI         ████████████░░░░░░
-Data Analytics        ███████████████░░░
-MLOps                 ████████░░░░░░░░░░
-App Development       █████████████░░░░░
+<div align="center">
+
+| 💡 Idea | 📊 Data | 🔎 Insight | 🤖 Model | 🚀 Product |
+|:---:|:---:|:---:|:---:|:---:|
+| Discover | Explore | Understand | Build | Ship |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 SEE THE DATA
+
+<a href="https://public.tableau.com/app/profile/theerdha.s.joy/viz/TheerdhaSJoyPortfolio/Leadership">
+
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20TABLEAU%20PORTFOLIO-5B2CFF?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+### 🟦 BUILD &nbsp; • &nbsp; 🟪 LEARN &nbsp; • &nbsp; 🟦 EXPERIMENT
+
+</div>
