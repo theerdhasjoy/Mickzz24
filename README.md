@@ -1,28 +1,52 @@
-name: Generate snake animation
+<div align="center"> <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:6C5CE7&height=200&section=header&text=Theerdha%20S%20Joy&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Product%20Development&descAlignY=58&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:6C5CE7&height=200&section=header&text=Theerdha%20S%20Joy&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Product%20Development&descAlignY=58&descSize=16)" width="100%"/> 
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"><img src="[https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=6C5CE7&center=true&vCenter=true&width=560&lines=Turning+data+into+decisions.;Turning+models+into+products.;Building+at+the+edge+of+AI+and+software](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=6C5CE7&center=true&vCenter=true&width=560&lines=Turning+data+into+decisions.;Turning+models+into+products.;Building+at+the+edge+of+AI+and+software)." alt="Typing SVG" /></a>
+ <br/> 
+<a href="[https://www.linkedin.com/in/theerdha-s-joy-7b143340b/](https://www.linkedin.com/in/theerdha-s-joy-7b143340b/)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" height="28"/></a>  <a href="[https://public.tableau.com/app/profile/theerdha.s.joy/viz/TheerdhaSJoyPortfolio/Leadership](https://public.tableau.com/app/profile/theerdha.s.joy/viz/TheerdhaSJoyPortfolio/Leadership)"><img src="[https://img.shields.io/badge/Tableau%20Portfolio-E97627?style=flat-square&logo=tableau&logoColor=white](https://img.shields.io/badge/Tableau%20Portfolio-E97627?style=flat-square&logo=tableau&logoColor=white)" height="28"/></a>  <a href="[https://github.com/theerdhasjoy?tab=repositories](https://github.com/theerdhasjoy?tab=repositories)"><img src="[https://img.shields.io/badge/All%20Projects-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/All%20Projects-181717?style=flat-square&logo=github&logoColor=white)" height="28"/></a>
+ </div> <br/> 
+I'm a Computer Science Engineering student working where data, AI and software engineering meet. I like taking a problem from raw data all the way to something people can actually use — analysis, models, and the application wrapped around them.
+```
+  Data  ─►  Analysis  ─►  Intelligence  ─►  Development  ─►  Product
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#6C5CE7
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+- 🔭 Currently — deepening my foundations in Machine Learning, Data Science and Generative AI
+- 🌱 Learning — LLMs, Transformers and MLOps for production-ready ML
+- 🛠️ Building — mobile and web apps with Flutter and Firebase
+- 📊 Enjoy — telling stories with data through interactive dashboards
+ <br/> 
+ <table> <tr> <td width="25%" valign="top"> 
+🧠 Artificial Intelligence <sub>Machine Learning<br/>Generative AI<br/>LLMs · Transformers</sub>
+ </td> <td width="25%" valign="top"> 
+📊 Data <sub>Analytics · Statistics<br/>NLP<br/>Data Visualization</sub>
+ </td> <td width="25%" valign="top"> 
+⚙️ Engineering <sub>App Development<br/>Web Development<br/>Flutter · Firebase</sub>
+ </td> <td width="25%" valign="top"> 
+🔧 MLOps <sub>Model Deployment<br/>Experiment Tracking<br/>Automation</sub>
+ </td> </tr> </table> <br/> 
+ <table> <tr> <td width="50%" valign="top"> 
+Intelligent waste-collection scheduler
+Pickup scheduling, collection tracking, history and a rewards system — designed to make waste management simple for everyday users.
+<img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)"/> <img src="[https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)"/> <img src="[https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)"/>
+ </td> <td width="50%" valign="top"> 
+Application & web development
+A practical digital product with a strong emphasis on interface design and a clean, intuitive user experience.
+<img src="[https://img.shields.io/badge/Web-0F172A?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/Web-0F172A?style=flat-square&logo=html5&logoColor=white)"/> <img src="[https://img.shields.io/badge/UI%20Design-6C5CE7?style=flat-square](https://img.shields.io/badge/UI%20Design-6C5CE7?style=flat-square)"/>
+ </td> </tr> <tr> <td width="50%" valign="top"> 
+Flutter mobile application
+A mobile app exploring Flutter architecture, interface design and end-to-end application workflows.
+<img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)"/> <img src="[https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)"/>
+ </td> <td width="50%" valign="top"> 
+Data-driven scheduling
+Analysis and modelling of waste-management workflows to explore smarter collection scheduling.
+<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)"/> <img src="[https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)"/>
+ </td> </tr> </table> <br/> 
+ <table> <tr> <td width="180"><b>Languages</b></td> <td> <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)"/> <img src="[https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)"/> <img src="[https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)"/> <img src="[https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)"/> <img src="[https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)"/> </td> </tr> <tr> <td><b>Data & ML</b></td> <td> <img src="[https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)"/> <img src="[https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)"/> <img src="[https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)"/> <img src="[https://img.shields.io/badge/NLP-8E44AD?style=flat-square](https://img.shields.io/badge/NLP-8E44AD?style=flat-square)"/> <img src="[https://img.shields.io/badge/Statistics-16A085?style=flat-square](https://img.shields.io/badge/Statistics-16A085?style=flat-square)"/> </td> </tr> <tr> <td><b>Analytics & BI</b></td> <td> <img src="[https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)"/> <img src="[https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)"/> <img src="[https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)"/> </td> </tr> <tr> <td><b>Development</b></td> <td> <img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)"/> <img src="[https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)"/> <img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)"/> <img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)"/> <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)"/> </td> </tr> <tr> <td><b>Exploring</b></td> <td> <img src="[https://img.shields.io/badge/Generative%20AI-6C5CE7?style=flat-square](https://img.shields.io/badge/Generative%20AI-6C5CE7?style=flat-square)"/> <img src="[https://img.shields.io/badge/LLMs-0A66C2?style=flat-square](https://img.shields.io/badge/LLMs-0A66C2?style=flat-square)"/> <img src="[https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)"/> <img src="[https://img.shields.io/badge/MLOps-FF7A59?style=flat-square](https://img.shields.io/badge/MLOps-FF7A59?style=flat-square)"/> </td> </tr> </table> <br/> 
+I enjoy exploring datasets, finding the patterns that matter and presenting them through clear, interactive dashboards.
+<a href="[https://public.tableau.com/app/profile/theerdha.s.joy/viz/TheerdhaSJoyPortfolio/Leadership](https://public.tableau.com/app/profile/theerdha.s.joy/viz/TheerdhaSJoyPortfolio/Leadership)"><img src="[https://img.shields.io/badge/Explore%20my%20Tableau%20portfolio%20→-6C5CE7?style=for-the-badge&logo=tableau&logoColor=white](https://img.shields.io/badge/Explore%20my%20Tableau%20portfolio%20→-6C5CE7?style=for-the-badge&logo=tableau&logoColor=white)"/></a>
+ <br/> 
+ <div align="center"> 
+<sub><i>Build → Test → Learn → Improve ↺</i></sub>
+ </div> <br/> 
+ <div align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=theerdhasjoy&show_icons=true&hide_border=true&theme=transparent&title_color=6C5CE7&icon_color=6C5CE7&text_color=8B949E](https://github-readme-stats.vercel.app/api?username=theerdhasjoy&show_icons=true&hide_border=true&theme=transparent&title_color=6C5CE7&icon_color=6C5CE7&text_color=8B949E)" height="165"/> <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=theerdhasjoy&layout=compact&hide_border=true&theme=transparent&title_color=6C5CE7&text_color=8B949E](https://github-readme-stats.vercel.app/api/top-langs/?username=theerdhasjoy&layout=compact&hide_border=true&theme=transparent&title_color=6C5CE7&text_color=8B949E)" height="165"/> </div> <br/> <div align="center"> 
+Open to internships, collaborations and conversations about data & AI.
+<a href="[https://www.linkedin.com/in/theerdha-s-joy-7b143340b/](https://www.linkedin.com/in/theerdha-s-joy-7b143340b/)"><img src="[https://img.shields.io/badge/Let](https://img.shields.io/badge/Let)'s%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:1E3A8A,100:0F172A&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:1E3A8A,100:0F172A&height=120&section=footer)" width="100%"/> </div>
