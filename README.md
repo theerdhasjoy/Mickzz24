@@ -16,7 +16,7 @@
 
 ## About <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/>
 
-I'm a **Computer Science Engineering student** working where **data, AI and software engineering** meet. I like taking a problem from raw data all the way to something people can actually use — analysis, models, and the application wrapped around them.
+I'm a **Computer Science Graduate** working where **data, AI and software engineering** meet. I like taking a problem from raw data all the way to something people can actually use — analysis, models, and the application wrapped around them.
 
 ```
   Data  ─►  Analysis  ─►  Intelligence  ─►  Development  ─►  Product
